@@ -1,4 +1,4 @@
-![logo](https://github.com/Surjeet-Thakur/surjeet-thakur/blob/main/pexels-goumbik-574071.jpg)
+![logo](https://github.com/Surjeet-Thakur/surjeet-thakur/blob/main/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 <h1 align="center">Hi 👋, I'm Surjeet Singh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" >
